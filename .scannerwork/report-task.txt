@@ -1,0 +1,6 @@
+projectKey=Palindrome_check
+serverUrl=http://localhost:8889
+serverVersion=25.2.0.102705
+dashboardUrl=http://localhost:8889/dashboard?id=Palindrome_check
+ceTaskId=6725fc9f-a810-4d56-93af-3c446eccd156
+ceTaskUrl=http://localhost:8889/api/ce/task?id=6725fc9f-a810-4d56-93af-3c446eccd156
